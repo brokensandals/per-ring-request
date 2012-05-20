@@ -1,4 +1,4 @@
-(defproject per-ring-request "0.1.0"
+(defproject per-ring-request "0.1.1-SNAPSHOT"
   :description "Memoize code on a per-server-request basis."
   :url "http://github.com/brokensandals/per-ring-request"
   :license {:name "Eclipse Public License"

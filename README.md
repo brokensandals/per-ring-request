@@ -2,6 +2,12 @@
 
 Tiny library for memoizing code such that it runs once per Ring request.
 
+## Installation
+
+Leiningen:
+
+    :dependencies [[per-ring-request "0.1.0"]]
+
 ## Usage
 
 All the usages below require the middleware to be set up. For example, with Noir, do
