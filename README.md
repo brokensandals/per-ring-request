@@ -12,7 +12,7 @@ All the usages below require the middleware to be set up. For example, with Noir
 (server/add-middleware wrap-setup-memoization)
 ```
 
-Memoization only occurs within the dynamic extend of this middleware.
+Memoization only occurs within the dynamic scope of this middleware.
 
 ### Memoize a block of code
 
